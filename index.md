@@ -133,7 +133,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   Modify the block below if there are any barriers to accessibility or
   special instructions.
-{% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
@@ -143,6 +142,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
+{% endcomment %}
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
