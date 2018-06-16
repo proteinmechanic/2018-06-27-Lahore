@@ -364,6 +364,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatability
            is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
+	<!--
   <h3>Git</h3>
   <p>
     Git is a version control system that lets you track who made changes
@@ -382,8 +383,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     example, you may want to review these
     <a href="https://help.github.com/articles/keeping-your-email-address-private/">instructions
     for keeping your email address private</a> provided at GitHub.
-  </p>
-
+  </p> -->
+<!--
   <div class="row">
     <div class="col-md-4">
       <h4 id="git-windows">Windows</h4>
@@ -416,7 +417,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
     </div>
   </div>
-</div> {% comment %} End of 'Git' section. {% endcomment %}
+</div> --> {% comment %} End of 'Git' section. {% endcomment %}
 
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
   <h3>Text Editor</h3>
